@@ -11,6 +11,7 @@
         "assets",
         "favicon.ico"
       ],
+      "anotherProperties": "myValue",
       "index": "index.html",
       "main": "main.ts",
       "polyfills": "polyfills.ts",
