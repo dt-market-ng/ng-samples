@@ -12,7 +12,6 @@
         "favicon.ico"
       ],
       "anotherProperties": "myValue",
-      "anotherProperties2": "myValue2",
       "index": "index.html",
       "main": "main.ts",
       "polyfills": "polyfills.ts",
